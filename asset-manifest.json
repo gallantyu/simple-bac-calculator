@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-bac-calculator/static/css/main.c0c424a2.css",
+    "main.js": "/simple-bac-calculator/static/js/main.b342f245.js",
+    "index.html": "/simple-bac-calculator/index.html",
+    "main.c0c424a2.css.map": "/simple-bac-calculator/static/css/main.c0c424a2.css.map",
+    "main.b342f245.js.map": "/simple-bac-calculator/static/js/main.b342f245.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0c424a2.css",
+    "static/js/main.b342f245.js"
+  ]
+}
