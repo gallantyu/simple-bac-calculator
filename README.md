@@ -2,6 +2,18 @@
 
 A lightweight, open-source Blood Alcohol Content (BAC) calculator built with React and TypeScript.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Online-blue?style=for-the-badge)](https://gallantyu.github.io/simple-bac-calculator/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/gallantyu/simple-bac-calculator)
+[![Full Version](https://img.shields.io/badge/Full%20Version-baccalculatorai.org-green?style=for-the-badge)](https://baccalculatorai.org/)
+
+## 🔗 Quick Links
+
+- 🌐 **[Live Demo](https://gallantyu.github.io/simple-bac-calculator/)** - Try the calculator online
+- 📦 **[GitHub Repository](https://github.com/gallantyu/simple-bac-calculator)** - View source code and contribute
+- ⭐ **[Full Version](https://baccalculatorai.org/)** - Production-ready BAC calculator with advanced features
+- 📝 **[GitHub Pages Settings](https://github.com/gallantyu/simple-bac-calculator/settings/pages)** - Configure deployment
+- 🏷️ **[Add Topics](https://github.com/gallantyu/simple-bac-calculator)** - Help improve discoverability
+
 > 💡 **Looking for a more comprehensive solution?** Check out **[BAC Calculator AI](https://baccalculatorai.org/)** - A production-ready BAC calculator with multi-market support, advanced features, and enhanced accuracy.
 
 ## ⚠️ Disclaimer
@@ -46,7 +58,7 @@ This calculator uses the scientifically validated **Widmark formula** to estimat
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/simple-bac-calculator.git
+git clone https://github.com/gallantyu/simple-bac-calculator.git
 cd simple-bac-calculator
 ```
 
@@ -144,9 +156,16 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Related Links
 
+### External Resources
 - **[BAC Calculator AI - Full Version](https://baccalculatorai.org/)** - Production-ready BAC calculator with advanced features
 - [Widmark Formula](https://en.wikipedia.org/wiki/Widmark_formula) - Wikipedia article on the Widmark formula
 - [NIAAA](https://www.niaaa.nih.gov/) - National Institute on Alcohol Abuse and Alcoholism
+
+### Repository Links
+- 🌐 **[Live Demo](https://gallantyu.github.io/simple-bac-calculator/)** - Try it online
+- 📦 **[Source Code](https://github.com/gallantyu/simple-bac-calculator)** - View on GitHub
+- ⚙️ **[Settings](https://github.com/gallantyu/simple-bac-calculator/settings)** - Repository settings
+- 📄 **[Pages Settings](https://github.com/gallantyu/simple-bac-calculator/settings/pages)** - Configure GitHub Pages
 
 ---
 

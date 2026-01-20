@@ -2,6 +2,7 @@
   "name": "simple-bac-calculator",
   "version": "1.0.0",
   "description": "A lightweight, open-source Blood Alcohol Content (BAC) calculator",
+  "homepage": "https://gallantyu.github.io/simple-bac-calculator",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
@@ -12,7 +13,14 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.8",
+    "@types/react-dom": "^19.2.3",
+    "gh-pages": "^6.3.0"
   },
   "eslintConfig": {
     "extends": [
@@ -32,4 +40,3 @@
     ]
   }
 }
-
